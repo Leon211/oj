@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="fifth.cpp">
+    <ClCompile Include="tenths2.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
